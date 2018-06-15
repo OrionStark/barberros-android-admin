@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/orionstark/Documents/BarberrosAdmin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/orionstark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d592db7a9b5b18ec7e658b16a96ada3c/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

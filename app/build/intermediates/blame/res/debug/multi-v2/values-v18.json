@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/orionstark/Documents/BarberrosAdmin/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/orionstark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d592db7a9b5b18ec7e658b16a96ada3c/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

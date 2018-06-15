@@ -1,0 +1,226 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/44411951e7809d790392441b8ceaef09/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d592db7a9b5b18ec7e658b16a96ada3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/orionstark/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d117590441db6a690a832d7bdaaf2a67/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/9cbc1c1e37ea3b80b513f42533315208/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/fd7eca87465774c4b0ae8dbbe3b3a73a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.andkulikov:transitionseverywhere:1.7.9] /home/orionstark/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.9.aar/c01ead7b3e02835fa2a62ac857348302/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/e8b01848f28cba01ceccd26138d2ff3f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/21d2b08a17600a561a728ee66a0d56c5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/216a956a42af99e02bd558150c1fe809/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/49d45eaecb3f161369ae88600aa00a69/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/12a10f6b2068965fc865f9b1a0f64d0a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0b47bcd2c5316d632668b9d520fc45c5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/54e8abd720182244dc9cd5f3721faf1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/722f24b2f0111a395cc5c2a276b87077/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ab73d2a7504c83eea93c464454d679f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2fa93057b9635267471ca09a8f17a72c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4a0529836d5a536f641aa365b66bd6ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/371414436319c90a152dc812c1dae349/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ed1cd10040b089567cafcd5209c09225/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f38693e3621966b096d88b43c192312a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8466f14de8ae6fabbc1e40580fba9276/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/df914d312fcdeea8ee1973ab3a82f425/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0cbfc75756e592d9409a7b1ffc1a5f61/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/16a01ec798f10199847ec9bc7f12f10d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e51bb0a6dc4eac34f4f3c9957039e48/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/612d8d423701e32d403aa64868cef7e9/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:4:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/orionstark/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d117590441db6a690a832d7bdaaf2a67/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/orionstark/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d117590441db6a690a832d7bdaaf2a67/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/9cbc1c1e37ea3b80b513f42533315208/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/9cbc1c1e37ea3b80b513f42533315208/AndroidManifest.xml:9:5-20
+MERGED from [com.andkulikov:transitionseverywhere:1.7.9] /home/orionstark/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.9.aar/c01ead7b3e02835fa2a62ac857348302/AndroidManifest.xml:12:5-20
+MERGED from [com.andkulikov:transitionseverywhere:1.7.9] /home/orionstark/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.9.aar/c01ead7b3e02835fa2a62ac857348302/AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/e8b01848f28cba01ceccd26138d2ff3f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/e8b01848f28cba01ceccd26138d2ff3f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/21d2b08a17600a561a728ee66a0d56c5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/21d2b08a17600a561a728ee66a0d56c5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/216a956a42af99e02bd558150c1fe809/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/216a956a42af99e02bd558150c1fe809/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/49d45eaecb3f161369ae88600aa00a69/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/49d45eaecb3f161369ae88600aa00a69/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/12a10f6b2068965fc865f9b1a0f64d0a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/12a10f6b2068965fc865f9b1a0f64d0a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0b47bcd2c5316d632668b9d520fc45c5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0b47bcd2c5316d632668b9d520fc45c5/AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:14:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:15:9-17:71
+	android:value
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:17:13-68
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:16:13-58
+activity#com.example.orionstark.barberrosadmin.SplashScreen
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.orionstark.barberrosadmin.Dashboard
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:25:9-47
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:25:19-44
+activity#com.example.orionstark.barberrosadmin.AddBarberActivity
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:26:9-30:20
+	android:label
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:28:13-39
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:27:13-46
+activity#com.example.orionstark.barberrosadmin.GetLocationActivity
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:31:9-33:20
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:31:19-54
+uses-sdk
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/44411951e7809d790392441b8ceaef09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/44411951e7809d790392441b8ceaef09/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d592db7a9b5b18ec7e658b16a96ada3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d592db7a9b5b18ec7e658b16a96ada3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/orionstark/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d117590441db6a690a832d7bdaaf2a67/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/orionstark/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d117590441db6a690a832d7bdaaf2a67/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/9cbc1c1e37ea3b80b513f42533315208/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/9cbc1c1e37ea3b80b513f42533315208/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/fd7eca87465774c4b0ae8dbbe3b3a73a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/fd7eca87465774c4b0ae8dbbe3b3a73a/AndroidManifest.xml:20:5-44
+MERGED from [com.andkulikov:transitionseverywhere:1.7.9] /home/orionstark/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.9.aar/c01ead7b3e02835fa2a62ac857348302/AndroidManifest.xml:8:5-10:41
+MERGED from [com.andkulikov:transitionseverywhere:1.7.9] /home/orionstark/.gradle/caches/transforms-1/files-1.1/transitionseverywhere-1.7.9.aar/c01ead7b3e02835fa2a62ac857348302/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/e8b01848f28cba01ceccd26138d2ff3f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/e8b01848f28cba01ceccd26138d2ff3f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/21d2b08a17600a561a728ee66a0d56c5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/21d2b08a17600a561a728ee66a0d56c5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/216a956a42af99e02bd558150c1fe809/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/216a956a42af99e02bd558150c1fe809/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/49d45eaecb3f161369ae88600aa00a69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/49d45eaecb3f161369ae88600aa00a69/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/12a10f6b2068965fc865f9b1a0f64d0a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/12a10f6b2068965fc865f9b1a0f64d0a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0b47bcd2c5316d632668b9d520fc45c5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0b47bcd2c5316d632668b9d520fc45c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/54e8abd720182244dc9cd5f3721faf1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/54e8abd720182244dc9cd5f3721faf1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/722f24b2f0111a395cc5c2a276b87077/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/722f24b2f0111a395cc5c2a276b87077/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ab73d2a7504c83eea93c464454d679f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ab73d2a7504c83eea93c464454d679f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2fa93057b9635267471ca09a8f17a72c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2fa93057b9635267471ca09a8f17a72c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4a0529836d5a536f641aa365b66bd6ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4a0529836d5a536f641aa365b66bd6ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/371414436319c90a152dc812c1dae349/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/371414436319c90a152dc812c1dae349/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ed1cd10040b089567cafcd5209c09225/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ed1cd10040b089567cafcd5209c09225/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f38693e3621966b096d88b43c192312a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/f38693e3621966b096d88b43c192312a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8466f14de8ae6fabbc1e40580fba9276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8466f14de8ae6fabbc1e40580fba9276/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/df914d312fcdeea8ee1973ab3a82f425/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/df914d312fcdeea8ee1973ab3a82f425/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0cbfc75756e592d9409a7b1ffc1a5f61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0cbfc75756e592d9409a7b1ffc1a5f61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/16a01ec798f10199847ec9bc7f12f10d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/16a01ec798f10199847ec9bc7f12f10d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e51bb0a6dc4eac34f4f3c9957039e48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e51bb0a6dc4eac34f4f3c9957039e48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/612d8d423701e32d403aa64868cef7e9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/612d8d423701e32d403aa64868cef7e9/AndroidManifest.xml:20:5-44
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/7f2269b22dbb5233fbaa0da54d4c21b0/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/216a956a42af99e02bd558150c1fe809/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/216a956a42af99e02bd558150c1fe809/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/216a956a42af99e02bd558150c1fe809/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/216a956a42af99e02bd558150c1fe809/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0b47bcd2c5316d632668b9d520fc45c5/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0b47bcd2c5316d632668b9d520fc45c5/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/0b47bcd2c5316d632668b9d520fc45c5/AndroidManifest.xml:24:13-58
