@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-38:12
 MERGED from [com.android.support:design:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/44411951e7809d790392441b8ceaef09/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /home/orionstark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d592db7a9b5b18ec7e658b16a96ada3c/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/orionstark/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d117590441db6a690a832d7bdaaf2a67/AndroidManifest.xml:2:1-11:12
@@ -31,20 +31,20 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/orionstark/.gradl
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/16a01ec798f10199847ec9bc7f12f10d/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e51bb0a6dc4eac34f4f3c9957039e48/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/612d8d423701e32d403aa64868cef7e9/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-38:12
 	package
 		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:3:5-52
 		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
 		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
-		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-38:12
 		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
-		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-36:12
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:1-38:12
 		INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:2:11-69
@@ -69,7 +69,7 @@ MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/orionstark/
 	android:name
 		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:7:22-64
 application
-ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:8:5-34:19
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:8:5-36:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/orionstark/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d117590441db6a690a832d7bdaaf2a67/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/orionstark/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d117590441db6a690a832d7bdaaf2a67/AndroidManifest.xml:9:5-20
 MERGED from [com.android.volley:volley:1.1.0] /home/orionstark/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/9cbc1c1e37ea3b80b513f42533315208/AndroidManifest.xml:9:5-20
@@ -108,10 +108,10 @@ ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifes
 		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:17:13-68
 	android:name
 		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:16:13-58
-activity#com.example.orionstark.barberrosadmin.SplashScreen
+activity#com.example.orionstark.barberrosadmin.viewcontrollers.SplashScreen
 ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:18:9-24:20
 	android:name
-		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:18:19-47
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:18:19-63
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
@@ -122,20 +122,26 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:22:17-77
 	android:name
 		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:22:27-74
-activity#com.example.orionstark.barberrosadmin.Dashboard
-ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:25:9-47
+activity#com.example.orionstark.barberrosadmin.viewcontrollers.Dashboard
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:25:9-63
 	android:name
-		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:25:19-44
-activity#com.example.orionstark.barberrosadmin.AddBarberActivity
-ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:26:9-30:20
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:25:19-60
+activity#com.example.orionstark.barberrosadmin.viewcontrollers.AddBarberActivity
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:26:9-32:20
 	android:label
 		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:28:13-39
 	android:name
-		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:27:13-46
-activity#com.example.orionstark.barberrosadmin.GetLocationActivity
-ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:31:9-33:20
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:27:13-62
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:29:13-31:99
+	android:value
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:31:17-96
 	android:name
-		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:31:19-54
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:30:17-63
+activity#com.example.orionstark.barberrosadmin.viewcontrollers.GetLocationActivity
+ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:33:9-35:20
+	android:name
+		ADDED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml:33:19-70
 uses-sdk
 INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/orionstark/Documents/BarberrosAdmin/app/src/main/AndroidManifest.xml

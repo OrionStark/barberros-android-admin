@@ -15,20 +15,22 @@
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyBKP-8si6u0DX-GV83NbWbZ0jch31_sMRs" />
-        <activity android:name=".SplashScreen">
+        <activity android:name=".viewcontrollers.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Dashboard" />
+        <activity android:name=".viewcontrollers.Dashboard" />
         <activity
-            android:name=".AddBarberActivity"
+            android:name=".viewcontrollers.AddBarberActivity"
             android:label="Add Barber">
-
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.orionstark.barberrosadmin.viewcontrollers.Dashboard" />
         </activity>
-        <activity android:name=".GetLocationActivity">
+        <activity android:name=".viewcontrollers.GetLocationActivity">
 
         </activity>
     </application>
