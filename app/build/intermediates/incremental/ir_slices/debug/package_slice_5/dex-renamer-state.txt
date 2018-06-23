@@ -1,4 +1,4 @@
-#Sun Jun 17 20:59:29 WIB 2018
+#Sun Jun 24 00:53:17 WIB 2018
 base.0=/home/orionstark/Documents/BarberrosAdmin/app/build/intermediates/transforms/dexMerger/debug/5
 path.0=classes.dex
 renamed.0=classes.dex

@@ -28,6 +28,10 @@
         "source": "/home/orionstark/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/216a956a42af99e02bd558150c1fe809/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
+        "merged": "/home/orionstark/Documents/BarberrosAdmin/app/build/intermediates/res/merged/debug/drawable_ic_turned_in_black_24dp.xml.flat",
+        "source": "/home/orionstark/Documents/BarberrosAdmin/app/src/main/res/drawable/ic_turned_in_black_24dp.xml"
+    },
+    {
         "merged": "/home/orionstark/Documents/BarberrosAdmin/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/orionstark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d592db7a9b5b18ec7e658b16a96ada3c/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
     },
@@ -908,6 +912,10 @@
         "source": "/home/orionstark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d592db7a9b5b18ec7e658b16a96ada3c/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "/home/orionstark/Documents/BarberrosAdmin/app/build/intermediates/res/merged/debug/drawable_label.xml.flat",
+        "source": "/home/orionstark/Documents/BarberrosAdmin/app/src/main/res/drawable/label.xml"
+    },
+    {
         "merged": "/home/orionstark/Documents/BarberrosAdmin/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "/home/orionstark/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/d592db7a9b5b18ec7e658b16a96ada3c/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
     },
@@ -1370,6 +1378,10 @@
     {
         "merged": "/home/orionstark/Documents/BarberrosAdmin/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
         "source": "/home/orionstark/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/df914d312fcdeea8ee1973ab3a82f425/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/orionstark/Documents/BarberrosAdmin/app/build/intermediates/res/merged/debug/layout_activity_done_book.xml.flat",
+        "source": "/home/orionstark/Documents/BarberrosAdmin/app/src/main/res/layout/activity_done_book.xml"
     },
     {
         "merged": "/home/orionstark/Documents/BarberrosAdmin/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",

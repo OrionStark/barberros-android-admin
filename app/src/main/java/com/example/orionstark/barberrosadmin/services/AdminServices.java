@@ -18,13 +18,16 @@ public class AdminServices {
     public static void addBarber(
             String barberName, String barberPhone,
             String barberDescription, String barberImage,
-            String barberAddress, Context context, final BarberCallback callback) throws JSONException {
+            String barberAddress, String latitude, String longitude, Context context, final BarberCallback callback) throws JSONException {
 
         JSONObject params = new JSONObject();
         params.put("barber_name", barberName);
         params.put("no_telp", barberPhone);
         params.put("description", barberDescription);
         params.put("image", barberImage);
+        params.put("address", barberAddress);
+        params.put("latitude", latitude);
+        params.put("longitude", longitude);
 
         JsonObjectRequest request = new JsonObjectRequest(
                 Request.Method.POST, UrlList.barberAdd_url, params, new Response.Listener<JSONObject>() {
@@ -63,7 +66,7 @@ public class AdminServices {
                             if ( error.getLocalizedMessage() != null ) {
                                 callback.onError(error.getLocalizedMessage());
                             } else {
-                                callback.onError("Something went wrong");
+                                callback.onError("Please check your internet connection.");
                             }
                         }
                     }
@@ -122,7 +125,7 @@ public class AdminServices {
                             if ( error.getLocalizedMessage() != null ) {
                                 callback.onError(error.getLocalizedMessage());
                             } else {
-                                callback.onError("Something went wrong");
+                                callback.onError("Please check your internet connection.");
                             }
                         }
                     }

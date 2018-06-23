@@ -34,5 +34,11 @@ public class Dashboard extends AppCompatActivity {
                 startActivity(new Intent(Dashboard.this, AddBarberActivity.class));
             }
         });
+        done_barber.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Dashboard.this, DoneBookActivity.class));
+            }
+        });
     }
 }

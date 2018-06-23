@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_view_book"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".viewcontrollers.DoneBookActivity">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp">
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/order_id_field"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:hint="*Order ID"
+                android:textSize="14sp"
+                android:drawableRight="@drawable/label"/>
+        </android.support.design.widget.TextInputLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:text="*Time"/>
+        <Spinner
+            android:id="@+id/time_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:background="#D3D3D3"
+            android:layout_marginBottom="14dp">
+        </Spinner>
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <EditText
+                android:id="@+id/barberName_field"
+                android:layout_width="match_parent"
+                android:layout_height="56dp"
+                android:hint="*Barber Name"
+                android:textSize="14sp"
+                android:drawableRight="@drawable/ic_turned_in_black_24dp"/>
+        </android.support.design.widget.TextInputLayout>
+        <Button
+            android:id="@+id/book_submit_button"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:backgroundTint="@color/colorPrimary"
+            android:textColor="#FFF"
+            android:text="SUBMIT"/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

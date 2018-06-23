@@ -241,6 +241,8 @@ public class GetLocationActivity extends FragmentActivity implements OnMapReadyC
                                 BarberPreference.getInstance(GetLocationActivity.this).getBarberInfo().get(2),
                                 BarberPreference.getInstance(GetLocationActivity.this).getBarberInfo().get(3),
                                 address,
+                                String.valueOf(location.latitude),
+                                String.valueOf(location.longitude),
                                 GetLocationActivity.this,
                                 new AdminServices.BarberCallback() {
                                     @Override
